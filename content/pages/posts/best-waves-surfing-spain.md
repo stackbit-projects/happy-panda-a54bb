@@ -1,5 +1,5 @@
 ---
-title: Best Waves - Surfing In Spain
+title: Bali
 subtitle: A intresting tale about Surfing
 excerpt: Surfing Mecca...
 date: '2018-01-15'
