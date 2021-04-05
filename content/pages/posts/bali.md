@@ -18,7 +18,7 @@ seo:
       value: Bali
       keyName: property
 layout: post
-excerpt: jungle and beaches
+excerpt: Island of the Gods
 date: '2019-03-08'
 ---
 
