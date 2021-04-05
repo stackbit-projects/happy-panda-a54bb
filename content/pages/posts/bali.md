@@ -1,6 +1,8 @@
 ---
 title: Bali
-subtitle: '  Somewhere in Ubud'
+subtitle: >-
+  Surfing Mecca, the jungle, $4 pizza at Garden Canggu, $2 nasi goreng, and $1
+  coffee! What's not to like! 
 thumb_img_path: images/AQLiYWY.jpeg
 thumb_img_alt: bali
 content_img_path: images/AQLiYWY.jpeg
