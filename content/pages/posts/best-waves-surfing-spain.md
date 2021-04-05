@@ -1,7 +1,6 @@
 ---
 title: Bali
 subtitle: bali
-date: '2018-01-15'
 thumb_img_path: images/AQLiYWY.jpeg
 thumb_img_alt: bali
 content_img_path: images/AQLiYWY.jpeg
