@@ -8,7 +8,7 @@ excerpt: >-
 date: '2018-01-15'
 thumb_img_path: images/bali.jpeg
 thumb_img_alt: bali
-content_img_path: images/4.jpg
+content_img_path: images/bali.jpeg
 content_img_alt: Three person about to surf
 seo:
   title: Best Waves - Surfing In Spain
