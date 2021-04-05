@@ -1,6 +1,6 @@
 ---
 title: Bali
-subtitle: bali
+subtitle: '  Somewhere in Ubud'
 thumb_img_path: images/AQLiYWY.jpeg
 thumb_img_alt: bali
 content_img_path: images/AQLiYWY.jpeg
