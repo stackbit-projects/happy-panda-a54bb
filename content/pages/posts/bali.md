@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Best Waves - Surfing In Spain
+      value: Bali
       keyName: property
 layout: post
 excerpt: jungle and beaches
