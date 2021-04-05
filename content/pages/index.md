@@ -12,10 +12,7 @@ sections:
     title: About
     content: |
       I am interested in technology and house music.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
