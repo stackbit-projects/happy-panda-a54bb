@@ -15,22 +15,6 @@ seo:
     - name: 'og:title'
       value: Best Waves - Surfing In Spain
       keyName: property
-    - name: 'og:description'
-      value: A intresting tale about Surfing
-      keyName: property
-    - name: 'og:image'
-      value: images/4.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Best Waves - Surfing In Spain
-    - name: 'twitter:description'
-      value: A intresting tale about Surfing
-    - name: 'twitter:image'
-      value: images/4.jpg
-      relativeUrl: true
 layout: post
 excerpt: jungle and beaches
 date: '2019-03-08'
