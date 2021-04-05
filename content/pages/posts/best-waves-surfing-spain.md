@@ -9,7 +9,7 @@ date: '2018-01-15'
 thumb_img_path: images/bali.jpeg
 thumb_img_alt: bali
 content_img_path: images/bali.jpeg
-content_img_alt: Three person about to surf
+content_img_alt: bali
 seo:
   title: Best Waves - Surfing In Spain
   description: A intresting tale about Surfing
