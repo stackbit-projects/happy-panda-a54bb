@@ -33,6 +33,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: post
+excerpt: into the jungle
 ---
 ### Surfing Mecca, the jungle, $4 pizza at Garden Canggu, $2 nasi goreng, and $1 coffee! What's not to like! 
 
