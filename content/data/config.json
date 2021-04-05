@@ -56,13 +56,6 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/adnjoo",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
